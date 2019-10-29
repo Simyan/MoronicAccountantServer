@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MongoUser" : "Simyan",
+        "MongoPassword" : "OCm3m1jyMySJaKiX",
+        "MongoDatabase" : "MoronicAccountantDB"
+
+    }
+}
